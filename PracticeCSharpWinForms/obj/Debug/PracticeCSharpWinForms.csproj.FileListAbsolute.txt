@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\PracticeCSharpWinForms\PracticeCSharpWinForms\PracticeCSharpWinForms\bin\Debug\PracticeCSharpWinForms.exe.config
+D:\Projects\Visual Studio\PracticeCSharpWinForms\PracticeCSharpWinForms\PracticeCSharpWinForms\bin\Debug\PracticeCSharpWinForms.exe
+D:\Projects\Visual Studio\PracticeCSharpWinForms\PracticeCSharpWinForms\PracticeCSharpWinForms\bin\Debug\PracticeCSharpWinForms.pdb
+D:\Projects\Visual Studio\PracticeCSharpWinForms\PracticeCSharpWinForms\PracticeCSharpWinForms\obj\Debug\PracticeCSharpWinForms.csproj.AssemblyReference.cache
+D:\Projects\Visual Studio\PracticeCSharpWinForms\PracticeCSharpWinForms\PracticeCSharpWinForms\obj\Debug\PracticeCSharpWinForms.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Visual Studio\PracticeCSharpWinForms\PracticeCSharpWinForms\PracticeCSharpWinForms\obj\Debug\PracticeCSharpWinForms.Form1.resources
+D:\Projects\Visual Studio\PracticeCSharpWinForms\PracticeCSharpWinForms\PracticeCSharpWinForms\obj\Debug\PracticeCSharpWinForms.Properties.Resources.resources
+D:\Projects\Visual Studio\PracticeCSharpWinForms\PracticeCSharpWinForms\PracticeCSharpWinForms\obj\Debug\PracticeCSharpWinForms.csproj.GenerateResource.cache
+D:\Projects\Visual Studio\PracticeCSharpWinForms\PracticeCSharpWinForms\PracticeCSharpWinForms\obj\Debug\PracticeCSharpWinForms.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\PracticeCSharpWinForms\PracticeCSharpWinForms\PracticeCSharpWinForms\obj\Debug\PracticeCSharpWinForms.exe
+D:\Projects\Visual Studio\PracticeCSharpWinForms\PracticeCSharpWinForms\PracticeCSharpWinForms\obj\Debug\PracticeCSharpWinForms.pdb
