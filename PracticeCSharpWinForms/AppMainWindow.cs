@@ -24,7 +24,7 @@ namespace PracticeCSharpWinForms
 
         private void btnSubmitClick(object sender, EventArgs e)
         {
-            if (textBoxName.Text != null)
+            if (textBoxName != null)
             {
                 labelResult.ForeColor = Color.Green;
                 labelResult.Text = "Hello World /n" +
