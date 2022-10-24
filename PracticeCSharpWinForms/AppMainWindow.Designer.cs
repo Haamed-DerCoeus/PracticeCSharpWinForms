@@ -1,6 +1,6 @@
 ﻿namespace PracticeCSharpWinForms
 {
-    partial class Form1
+    partial class AppMainWindow
     {
         /// <summary>
         /// Required designer variable.
