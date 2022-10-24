@@ -24,12 +24,13 @@ namespace PracticeCSharpWinForms
 
         private void btnSubmitClick(object sender, EventArgs e)
         {
-            if (textBoxName != null)
+            if (textBoxName.Text != "")
             {
                 labelResult.ForeColor = Color.Green;
-                labelResult.Text = "Hello World /n" +
+                labelResult.Text = "Hello World \n" +
                     "Hallo" + textBoxName.Text;
-            } else
+            }
+            else
             {
                 labelResult.ForeColor = Color.Red;
                 labelResult.Text = "Please enter your name?";
