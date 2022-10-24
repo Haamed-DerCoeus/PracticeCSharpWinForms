@@ -28,7 +28,7 @@ namespace PracticeCSharpWinForms
             {
                 labelResult.ForeColor = Color.Green;
                 labelResult.Text = "Hello World \n" +
-                    "Hallo" + textBoxName.Text;
+                    "Hallo " + textBoxName.Text;
             }
             else
             {
