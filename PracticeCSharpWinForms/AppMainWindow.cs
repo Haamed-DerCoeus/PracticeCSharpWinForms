@@ -21,5 +21,19 @@ namespace PracticeCSharpWinForms
         {
             MessageBox.Show("This is a just test program!");
         }
+
+        private void btnSubmitClick(object sender, EventArgs e)
+        {
+            if (textBoxName.Text != null)
+            {
+                labelResult.ForeColor = Color.Green;
+                labelResult.Text = "Hello World /n" +
+                    "Hallo" + textBoxName.Text;
+            } else
+            {
+                labelResult.ForeColor = Color.Red;
+                labelResult.Text = "Please enter your name?";
+            }
+        }
     }
 }
