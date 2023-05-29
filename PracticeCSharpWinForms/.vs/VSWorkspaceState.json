@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\bin",
+    "\\obj",
+    "\\Properties"
   ],
-  "SelectedNode": "\\PracticeCSharpWinForms.sln",
+  "SelectedNode": "\\AppMainWindow.cs",
   "PreviewInSolutionExplorer": false
 }
